@@ -1,19 +1,39 @@
 # PayPal Gebührenrechner Deutschland (2026)
 
-Ein kostenloser Rechner zur Berechnung von PayPal Gebühren in Deutschland.
+Berechnen Sie PayPal Gebühren sofort – inkl. Netto-Betrag, Gebühren und Rückwärtsrechner.
 
 👉 https://onlinegebuehrenrechner.de/
 
-## Funktionen
+---
+
+## 🔄 Rückwärtsrechner (Reverse Fee Calculator)
+
+Mit dem Rückwärtsrechner berechnen Sie, welchen Betrag Sie verlangen müssen, um nach PayPal Gebühren genau Ihren Wunschbetrag zu erhalten.
+
+👉 https://onlinegebuehrenrechner.de/paypal-gebuehrenrechner-rueckwaerts/
+
+---
+
+## 💡 Funktionen
 
 - Gebühren berechnen (2,49% + 0,35€)
-- Netto-Betrag anzeigen
-- Rückwärtsrechner
+- Netto-Auszahlung anzeigen
+- Rückwärtsrechner (Reverse Calculation)
+- Unterstützung für verschiedene Zahlungsarten
+- Sofortige Berechnung ohne Anmeldung
 
-## Beispiel
+---
 
-100€ → 2,84€ Gebühr → 97,16€ Auszahlung
+## 📊 Beispiel
 
-## Tool nutzen
+| Betrag | Gebühr | Auszahlung |
+|--------|--------|-----------|
+| 100€   | 2,84€  | 97,16€    |
+| 500€   | 12,80€ | 487,20€   |
+| 1000€  | 25,35€ | 974,65€   |
 
-https://onlinegebuehrenrechner.de/
+---
+
+## ⚙️ Wie funktioniert die Berechnung?
+
+Die PayPal Gebühr basiert auf einer einfachen Formel:
