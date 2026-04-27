@@ -24,7 +24,7 @@ Mit dem Rückwärtsrechner berechnen Sie, welchen Betrag Sie verlangen müssen, 
 
 ---
 
-## 📊 Beispiel
+## 📊 Beispiele
 
 | Betrag | Gebühr | Auszahlung |
 |--------|--------|-----------|
@@ -37,3 +37,31 @@ Mit dem Rückwärtsrechner berechnen Sie, welchen Betrag Sie verlangen müssen, 
 ## ⚙️ Wie funktioniert die Berechnung?
 
 Die PayPal Gebühr basiert auf einer einfachen Formel:
+
+Betrag × Prozentsatz + Fixgebühr
+
+**Beispiel:**
+- 100€ × 2,49% = 2,49€
+- + 0,35€ Fixgebühr  
+→ Gesamtgebühr: 2,84€
+
+---
+
+## 🌍 Weitere Tools
+
+- PayPal Gebührenrechner  
+  https://onlinegebuehrenrechner.de/
+
+- Rückwärtsrechner  
+  https://onlinegebuehrenrechner.de/paypal-gebuehrenrechner-rueckwaerts/
+
+---
+
+## 📌 Hinweis
+
+Alle Angaben basieren auf den aktuellen PayPal Gebühren (Deutschland 2026).  
+Änderungen durch PayPal sind möglich.
+
+---
+
+👉 Nutzen Sie den Rechner, um PayPal Gebühren schnell und exakt zu berechnen.
